@@ -1,2 +1,2 @@
 # statprak
-lalalalla
+Статистический практикум
